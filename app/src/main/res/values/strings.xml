@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppCodingChallenge</string>
+    <string name="trending">Trending</string>
+    <string name="settings">Settings</string>
+</resources>
